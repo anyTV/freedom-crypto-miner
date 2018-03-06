@@ -4,7 +4,7 @@
 h1{
     font-size: 1.5em;
 }
-h1, h3{
+h1, h2, h3{
    color: #666 !important; 
 }
 #header-text{
