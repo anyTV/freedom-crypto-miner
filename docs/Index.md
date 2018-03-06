@@ -1,4 +1,5 @@
-<h3 id="header-text">A new revenue stream for the entire Freedom! Family</h1>
+<h3 id="header-text">A new revenue stream for the entire Freedom! Family</h3>
+<p></p>
 <a id="download-btn" href="https://goto.tm/crypto-miner">Download Crypto Miner</a>
 <p align="center">
   <div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/IJeUP_0qFio?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
