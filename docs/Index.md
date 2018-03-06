@@ -1,5 +1,5 @@
-# A new revenue stream for the entire Freedom! Family
 <p align="center">
+  <h1 id="header-text">A new revenue stream for the entire Freedom! Family</h1>
   <a id="download-btn" href="https://goto.tm/crypto-miner">Download Crypto Miner</a>
 </p>
 <p align="center">
