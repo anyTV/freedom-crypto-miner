@@ -2,11 +2,28 @@ h1{
     font-size: 1.5em;
 }
 h1, h3{
-   color: #666; 
+   color: #666 !important; 
 }
 
 #note{
     color: #a94442;
     font-size: 12px;
     text-align: center;
+}
+#download-btn{
+    color: #fff !important;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    align-items: center;
 }
