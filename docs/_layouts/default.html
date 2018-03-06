@@ -10,10 +10,16 @@
     <link rel="stylesheet" href="/freedom-crypto-miner/assets/css/style.css">
        <link rel="stylesheet" href="/freedom-crypto-miner/assets/css/custom.css">
   </head>
-  <body>
+  <body onLoad="resize();">
     
     <section class="main-content">
       {{ content }}
     </section>
+    <script>
+      function resize() {
+        var height = document.getElementsByTagName("html")[0].scrollHeight;
+        window.parent.postMessage(["freedom-crypto-miner-height", height], "*"); 
+      }
+    </script>
   </body>
 </html>
