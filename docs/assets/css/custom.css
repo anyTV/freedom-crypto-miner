@@ -15,7 +15,7 @@ h1, h2, h3{
     font-size: 12px;
     text-align: center;
 }
-#download-btn{
+a.download-btn {
     color: #fff !important;
     background-color: #5bc0de;
     border-color: #46b8da;
