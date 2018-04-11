@@ -8,17 +8,15 @@
 </p>
 
 ## Limitations
-* **This is still in beta**
 * You must have an active internet connection to mine
 * Will support Linux, Mac and Windows (currently only Windows and Linux)
 * Will support all CPUs, AMD and Nvidia GPUs (currently only AMD and Nvidia GPUs)
-* Will mine all cypto currencies (currently only mines Zcash)
+* Will mine all cypto currencies (currently only mines Zcash, Ethereum)
 * Will have instant cash-out button (currently paid as YouTube earnings are paid)
 
 ## What's coming soon:
 * Keep your mined crypto currency (instead of cash-out)
 * Instant cash-out button
-* Support multiple crypto currencies
 * Support CPU mining
 * Support Mac in addition to Windows and Linux
 <p align="center" id="note">
