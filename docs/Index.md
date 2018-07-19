@@ -14,7 +14,7 @@
 * Will mine all cypto currencies (currently only mines Zcash, Ethereum)
 * Will have instant cash-out button (currently paid as YouTube earnings are paid)
 
-## What's coming soon:
+## What's coming soon
 * Keep your mined crypto currency (instead of cashing out)
 * Instant cash-out button
 * Support CPU mining
